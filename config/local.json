@@ -1,0 +1,20 @@
+{
+    "debug": {
+        "FPS": true
+    },
+    "controle": {
+        "servo": {
+            "camera": {
+                "X" : {
+                    "correction" : -30
+                },
+                "Y" : {
+                    "correction" : 70
+                }
+            },
+            "direction" : {
+                "correction" : -30
+            }
+        }
+    }
+}
